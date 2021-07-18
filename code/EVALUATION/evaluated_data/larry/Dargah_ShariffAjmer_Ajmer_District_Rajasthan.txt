@@ -1,0 +1,4 @@
+pants
+camera
+shoes
+bags

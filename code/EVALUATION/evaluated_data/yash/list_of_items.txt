@@ -1,0 +1,207 @@
+1 Tula_State_Museum_of_WeaponsTula_Tula_Oblast_Central_Russia:
+Camera
+Water-bottle
+Cash/wallet
+
+1 Varda_Alman_KoprusuAdana_Turkish_Mediterranean_Coast:
+Camera
+Shoes
+Sunscreen
+Goggles
+Water-bottle
+
+1 Vodonapornaya_Bashnya_MuseumVladimir_Vladimir_Oblast_Central_Russia:
+Sweater
+Woollen Cloths
+Camera
+Cash/Wallet
+
+1 Yaroslavl_EmbankmentYaroslavl_Yaroslavl_Oblast_Central_Russia:
+Camera
+Storybooks
+Sweater 
+Woollen Cloths
+
+1 Tula_Kremlin_MuseumTula_Tula_Oblast_Central_Russia:
+Camera
+Water-bottle
+Cash/Wallet
+
+1 VGP_Snow_KingdomChennai_Madras_Chennai_District_Tamil_Nadu:
+Jacket
+Woollen cloths
+Camera
+Shoes
+Handgloves
+
+
+1 Tsunoshima_OhashiShimonoseki_Yamaguchi_Prefecture_Chugoku:
+Wallet/Cash
+Camera
+Handbag
+Mobile
+
+1 Uminonakamichi_Seaside_ParkFukuoka_Fukuoka_Prefecture_Kyushu:
+Water-bottle
+Sunscreen
+Sun-hat
+Wallet/cash
+Shoes
+Sack 
+Swimming Costume
+Towel
+
+1 Vaishno_Devi_MandirJammu_City_Jammu_District_Jammu_Jammu_and_Kashmir:
+Jacket
+Sweater
+Woollen cloths/muffler/handgloves
+Shoes
+Wallet/Cash
+Water-bottle
+
+
+1 VialatteaSauze_d_Oulx_Province_of_Turin_Piedmont:
+Ski
+Woollen handgloves
+Jacket
+Sweater
+Goggles
+
+
+1 Varca_BeachVarca_Salcette_South_Goa_District_Goa:
+Swimming Costume
+Goggle
+Sunscreen
+Volleyball
+Camera
+handbag
+Slippers
+
+1 Yokohama_Minato_Mirai_21Minatomirai_Nishi_Yokohama_Kanagawa_Prefecture_Kanto:
+Wallet/Cash
+Camera
+Credit/Debit cards
+
+
+1 Victoria_Memorial_HallKolkata_Calcutta_Kolkata_District_West_Bengal:
+Camera
+Mobile
+Water-bottle
+
+
+1 Universal_Studios_JapanOsaka_Osaka_Prefecture_Kinki:
+Camera
+Shoes
+Mobile
+Wallet/Cash
+Credit/Debit cards
+
+
+1 Victoria_TunnelNewcastle_upon_Tyne_Tyne_and_Wear_England:
+Shoes
+Hoodie
+Water-bottle
+Wallet/Cash
+
+
+1 Wonderla_Amusement_ParkBengaluru_Bangalore_District_Karnataka:
+Shoes
+Camera
+Swimming Costume
+Extra cloths
+Towel
+
+1 Toyota_Commemorative_Museum_of_Industry_and_TechnologyNagoya_Aichi_Prefecture_Tok:
+Shoes
+Camera
+Water-bottle
+hoodie
+
+
+
+1 Yalong_BaySanya_Hainan:
+Swimming Costume
+Swimming goggles, cap
+Towel
+Camera
+Volleyball
+
+
+1 City_Palace_of_UdaipurUdaipur_Udaipur_District_Rajasthan:
+Water-bottle
+Sunscreen
+Hat
+Camera
+Wallet/cash
+
+
+1 Zeugma_Mosaic_MuseumGaziantep_Gaziantep_Province:
+Camera
+Mobile + earphones
+Water-bottle
+Wallet/Cash
+
+
+1 USS_Midway_MuseumSan_Diego_California:
+Camera
+Shoes
+Mobile
+Water-bottle
+Wallet/Cash
+
+
+1 Tower_of_LondonLondon_England:
+Wallet/Cash
+Camera
+Mobile
+Sunscreen/sun-hat
+Jacket
+
+1 Vivekananda_Rock_MemorialKanyakumari_Kanyakumari_District_Tamil_Nadu:
+Water-bottle
+Sunscreen
+Camera
+Cotton cloths
+Goggles
+
+
+1 Wildlife_SOSAgra_Agra_District_Uttar_Pradesh:
+Camera
+Water-bottle
+Shoes
+Binoculars
+
+
+1 Wollaton_Hall_and_ParkNottingham_Nottinghamshire_England:
+Water-bottle
+Wallet/Cash
+Camera
+hoodie
+
+
+1 Triveni_GhatRishikesh_Dehradun_District_Uttarakhand:
+Camera
+Wallet/Cash
+Sack
+Towel
+Extra cloths
+
+
+1 Windsor_CastleWindsor_Windsor_and_Maidenhead_Berkshire_England:
+Camera
+mobile
+Hoodie
+
+
+1 Clifton_Suspension_BridgeBristol_England:
+Mobile
+Camera
+Hoodie
+
+
+
+1 Zhangjiajie_National_Forest_ParkZhangjiajie_Hunan:
+Hiking shoes
+Water-bottle
+Camera
+Mobile

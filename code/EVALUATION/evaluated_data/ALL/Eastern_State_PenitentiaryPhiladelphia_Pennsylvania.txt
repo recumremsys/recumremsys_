@@ -1,0 +1,4 @@
+jacket
+phone
+camera
+shoes
