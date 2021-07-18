@@ -1,0 +1,3978 @@
+[
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you book your tickets in advance as the queue ##s are very long and when you go through then you have to queue for security as well",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your tissues",
+        "predictions": [
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring some food and drink and chill out on the many lawn ##s",
+        "predictions": [
+            [
+                "food"
+            ],
+            [
+                "drink"
+            ]
+        ],
+        "true_labels": [
+            [
+                "food"
+            ],
+            [
+                "drink"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to get your money before going",
+        "predictions": [
+            [
+                "money"
+            ]
+        ],
+        "true_labels": [
+            [
+                "money"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take 1 bills",
+        "predictions": [
+            [
+                "bills"
+            ]
+        ],
+        "true_labels": [
+            [
+                "1",
+                "bills"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear gym shoes not flip ##fl ##ops",
+        "predictions": [
+            [
+                "wear",
+                "gym",
+                "shoes"
+            ],
+            [
+                "gym",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ],
+            [
+                "flip"
+            ]
+        ],
+        "true_labels": [
+            [
+                "gym",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " put on some com ##fy shoes and start walking",
+        "predictions": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable walking tennis shoes",
+        "predictions": [
+            [
+                "walking",
+                "tennis",
+                "shoes"
+            ],
+            [
+                "tennis",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tennis",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be careful of your hat on windy days",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "windy",
+                "days"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy a ticket online",
+        "predictions": [
+            [
+                "ticket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "ticket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be aware that you have to purchase a ticket to enter the garden outside then purchase a second ticket to enter the building",
+        "predictions": [
+            [
+                "ticket"
+            ],
+            [
+                "ticket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "ticket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " get a map from your hotel",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you pre ##book tickets a must",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring suns ##creen and water",
+        "predictions": [
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " pack water and snacks",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "snacks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "snacks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " spend some money nyc to widen it",
+        "predictions": [
+            [
+                "spend",
+                "some",
+                "money"
+            ],
+            [
+                "money"
+            ]
+        ],
+        "true_labels": [
+            [
+                "money"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear your walking shoes long climb up and down to the basilica but worth it",
+        "predictions": [
+            [
+                "walking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " evening the place is a crush otherwise take the camera and enjoy",
+        "predictions": [
+            [
+                "crush",
+                "otherwise",
+                "take",
+                "the",
+                "camera"
+            ],
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you take your own towels and flip flop ##s slip ##pers from your hotel will be fine as iv ##e heard they charge a lot for these",
+        "predictions": [
+            [
+                "towels"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "slip"
+            ]
+        ],
+        "true_labels": [
+            [
+                "towels"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " avoid weekends if you dislike noisy crowds and if you plan to visit in the peak summer months bring lots of drinking water shades and a wide br ##im ##med hat",
+        "predictions": [
+            [
+                "drinking",
+                "water"
+            ],
+            [
+                "water"
+            ],
+            [
+                "shades"
+            ],
+            [
+                "wide",
+                "br",
+                "##im",
+                "##med",
+                "hat"
+            ],
+            [
+                "br",
+                "##im",
+                "##med",
+                "hat"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "shades"
+            ],
+            [
+                "wide",
+                "br",
+                "##im",
+                "##med",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring water and hiking shoes",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a hat and water bottle for hot weather",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ],
+            [
+                "bottle"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "water",
+                "bottle"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " book a guided walking tour",
+        "predictions": [],
+        "true_labels": [
+            [
+                "guided",
+                "walking",
+                "tour"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " do take a camera as it is spectacular",
+        "predictions": [
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " took a pick on a camel for 10 le using my own phone",
+        "predictions": [],
+        "true_labels": [
+            [
+                "phone"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to purchase head sets or download app on your phone and bring your ear buds",
+        "predictions": [
+            [
+                "head"
+            ],
+            [
+                "download",
+                "app",
+                "on",
+                "your",
+                "phone",
+                "and",
+                "bring",
+                "your",
+                "ear",
+                "buds"
+            ],
+            [
+                "app",
+                "on",
+                "your",
+                "phone",
+                "and",
+                "bring",
+                "your",
+                "ear",
+                "buds"
+            ],
+            [
+                "phone",
+                "and",
+                "bring",
+                "your",
+                "ear",
+                "buds"
+            ],
+            [
+                "ear",
+                "buds"
+            ]
+        ],
+        "true_labels": [
+            [
+                "ear",
+                "buds"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take swimming costume towel and flip flop ##s",
+        "predictions": [
+            [
+                "swimming",
+                "costume"
+            ],
+            [
+                "costume"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ],
+        "true_labels": [
+            [
+                "swimming",
+                "costume"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " was great to already purchase the tickets in advance as we were able to skip the ticket queue which saved time",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take your own drinks and snacks",
+        "predictions": [
+            [
+                "drinks"
+            ],
+            [
+                "snacks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "drinks"
+            ],
+            [
+                "snacks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " need good foot ##wear",
+        "predictions": [
+            [
+                "foot",
+                "##wear"
+            ]
+        ],
+        "true_labels": [
+            [
+                "foot"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you get your tickets ahead of time",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take an umbrella as we were there in january but it was",
+        "predictions": [
+            [
+                "umbrella"
+            ]
+        ],
+        "true_labels": [
+            [
+                "umbrella"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " book tickets in advance or you ##ll be waiting at least 2 hours",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your own towels swim hat only if going to swim laps and flip flop ##s",
+        "predictions": [
+            [
+                "towels"
+            ],
+            [
+                "swim"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "swim",
+                "laps"
+            ]
+        ],
+        "true_labels": [
+            [
+                "towels"
+            ],
+            [
+                "swim",
+                "hat"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " get there early get your drink and order one for the interval where it will be waiting for you with your name against it",
+        "predictions": [
+            [
+                "drink"
+            ]
+        ],
+        "true_labels": [
+            [
+                "drink"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " pre buy your tickets online",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a cap and scarf with you the area is very open to winds ##rest is the same",
+        "predictions": [
+            [
+                "a",
+                "cap"
+            ],
+            [
+                "cap"
+            ],
+            [
+                "scarf"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cap"
+            ],
+            [
+                "scarf"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a hat water suns ##creen and good shoes",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear bug spray",
+        "predictions": [
+            [
+                "wear"
+            ],
+            [
+                "bug",
+                "spray"
+            ]
+        ],
+        "true_labels": [
+            [
+                "bug",
+                "spray"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear sneakers or comfortable shoes there are al ##ot of stairs",
+        "predictions": [
+            [
+                "sneakers"
+            ],
+            [
+                "comfortable",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sneakers"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a s ##nor ##kel and go ##ggles",
+        "predictions": [
+            [
+                "s"
+            ],
+            [
+                "##nor"
+            ],
+            [
+                "##kel"
+            ],
+            [
+                "go"
+            ],
+            [
+                "##ggles"
+            ]
+        ],
+        "true_labels": [
+            [
+                "s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " being about to leave hungary i did not have cash and was unable to play by card",
+        "predictions": [
+            [
+                "cash"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure to get a map and see the rooms with the impression ##ists",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " pack water and suns ##creen",
+        "predictions": [
+            [
+                "pack",
+                "water"
+            ],
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take lots of water and use a hat or umbrella",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "umbrella"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "umbrella"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " have plenty of space available on your phone camera for",
+        "predictions": [
+            [
+                "phone"
+            ],
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "phone"
+            ],
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you wa ##er the most sturdy foot ##wear you have hiking boots or shoes are best",
+        "predictions": [
+            [
+                "hiking",
+                "boots"
+            ],
+            [
+                "boots"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sturdy",
+                "foot"
+            ],
+            [
+                "hiking",
+                "boots"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy your tickets on line and see if you can get a government approved guide to show you around",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear sneakers and suns ##creen take water drinks in a day ##pack because you will need it",
+        "predictions": [
+            [
+                "sneakers"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sneakers"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ],
+            [
+                "drinks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear com ##fy shoes as the cobb ##les take their toll",
+        "predictions": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " need to wear trainers as the walk is tough in some parts",
+        "predictions": [
+            [
+                "trainers"
+            ]
+        ],
+        "true_labels": [
+            [
+                "trainers"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " get your tickets and proceed to the front and left of the line",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take your camera",
+        "predictions": [
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear good shoes and bring plenty of water",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " had to visit to stock up on snacks and drinks plus we forgot to take the bug ##gy great for all shopping experiences with all the usual shops there",
+        "predictions": [
+            [
+                "snacks"
+            ],
+            [
+                "drinks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "snacks"
+            ],
+            [
+                "drinks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy tickets in advance",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a stroll or hire a bike have lunch or simply drinks down on the beach",
+        "predictions": [
+            [
+                "stroll",
+                "or",
+                "hire",
+                "a",
+                "bike"
+            ],
+            [
+                "bike"
+            ],
+            [
+                "lunch"
+            ]
+        ],
+        "true_labels": [
+            [
+                "drinks"
+            ],
+            [
+                "beach"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a good camera and water",
+        "predictions": [
+            [
+                "camera"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable shoes and a warm hat can get windy",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "warm",
+                "hat"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "comfortable",
+                "shoes"
+            ],
+            [
+                "warm",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take good care of your belongings and keep money very very safe",
+        "predictions": [
+            [
+                "money"
+            ]
+        ],
+        "true_labels": [
+            [
+                "money"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " go early before the crowds ##bu ##y tickets in advance",
+        "predictions": [
+            [
+                "crowds"
+            ],
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " being able to bring your own food in is also a nice feature",
+        "predictions": [
+            [
+                "food"
+            ]
+        ],
+        "true_labels": [
+            [
+                "food"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you have a hat and water for the climb",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " do not bring in food as people were made to throw everything in the trash",
+        "predictions": [
+            [
+                "food"
+            ]
+        ],
+        "true_labels": [
+            [
+                "food"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " note wear sensible shoes use",
+        "predictions": [
+            [
+                "sensible",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sensible",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " have you feet prepared and please obtain your tickets before arrival",
+        "predictions": [
+            [
+                "feet"
+            ],
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " book in advance and buy a ticket to take lift to the summit",
+        "predictions": [
+            [
+                "book",
+                "in",
+                "advance",
+                "and",
+                "buy",
+                "a",
+                "ticket"
+            ],
+            [
+                "ticket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "ticket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " loved the experience and so structure ##ed might have a language issue do have a google translator on ur phone and download russian language",
+        "predictions": [
+            [
+                "google",
+                "translator"
+            ]
+        ],
+        "true_labels": [
+            [
+                "google",
+                "translator"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your wallet as you must take a mini ##war ##rio ##r home",
+        "predictions": [
+            [
+                "wallet"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wallet"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable shoes sneakers and bring water especially on a hot day",
+        "predictions": [
+            [
+                "comfortable",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ],
+            [
+                "sneakers"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "sneakers"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " was really hot the day we went so make sure you wear a cap wear sun cream and take water",
+        "predictions": [
+            [
+                "cap"
+            ],
+            [
+                "sun",
+                "cream"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cap"
+            ],
+            [
+                "sun",
+                "cream"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " slip on a shirt sl ##op on suns ##creen and slap on a hat",
+        "predictions": [
+            [
+                "shirt"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shirt"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear foot ##wear with a good supported foot ##bed and gripping sole especially if the trails are wet",
+        "predictions": [
+            [
+                "foot"
+            ],
+            [
+                "gripping",
+                "sole"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring 2 cash for entry fee",
+        "predictions": [
+            [
+                "cash"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget to bring food and drinks just in case you want to have a picnic or",
+        "predictions": [
+            [
+                "food"
+            ],
+            [
+                "drinks"
+            ],
+            [
+                "picnic"
+            ]
+        ],
+        "true_labels": [
+            [
+                "food"
+            ],
+            [
+                "drinks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " carry your own eat ##able ##s drinks if needed as the non ##des ##cript canteen serves almost nothing to write home about",
+        "predictions": [
+            [
+                "eat"
+            ],
+            [
+                "drinks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "eat"
+            ],
+            [
+                "drinks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your own snacks or visit the on ##sit ##e cafeteria",
+        "predictions": [
+            [
+                "snacks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "snacks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a blanket with you some food and be ##vies and take the day to lounge in the massive park",
+        "predictions": [
+            [
+                "blanket"
+            ],
+            [
+                "food"
+            ],
+            [
+                "be"
+            ]
+        ],
+        "true_labels": [
+            [
+                "blanket"
+            ],
+            [
+                "food"
+            ],
+            [
+                "be"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring tissues this is an emotional experience",
+        "predictions": [
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear good foot ##wear as you walk across a lot of loose gravel outside",
+        "predictions": [
+            [
+                "foot"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to wear suns ##creen and have a hat on too",
+        "predictions": [
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear a money",
+        "predictions": [
+            [
+                "wear"
+            ],
+            [
+                "money"
+            ]
+        ],
+        "true_labels": [
+            [
+                "money"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a good pair of sneakers or hiking boots",
+        "predictions": [
+            [
+                "pair"
+            ],
+            [
+                "sneakers"
+            ],
+            [
+                "hiking",
+                "boots"
+            ],
+            [
+                "boots"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sneakers"
+            ],
+            [
+                "hiking",
+                "boots"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear suitable foot ##wear as there are plenty of walking and que ##uing",
+        "predictions": [
+            [
+                "wear",
+                "suitable",
+                "foot"
+            ],
+            [
+                "foot"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy your tickets before you go or you will be waiting in line forever",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you wear good gym",
+        "predictions": [
+            [
+                "wear"
+            ],
+            [
+                "gym"
+            ]
+        ],
+        "true_labels": [
+            [
+                "gym"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a map with you as the station names are fairly confusing if english is your only language",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a bottled water the couple hundred steps to the top will get your heart beating",
+        "predictions": [
+            [
+                "bottled"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "bottled",
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable shoes and attire summer and booked return cable upgrade if you have the budget as the que took more than 1 1 2 hr ##s on sunday 5 ##pm",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "attire"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "attire"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear the right shoes and bring water",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a water bottle and go early",
+        "predictions": [
+            [
+                "water",
+                "bottle"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water",
+                "bottle"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring some tissues though",
+        "predictions": [
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " ensure you wear appropriate foot ##wear take water and be prepared for an intensive walk",
+        "predictions": [
+            [
+                "foot"
+            ],
+            [
+                "##wear"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " took a cooler with food",
+        "predictions": [
+            [
+                "cooler"
+            ],
+            [
+                "food"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cooler"
+            ],
+            [
+                "food"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy your tickets beforehand",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take your camera and capture those memories",
+        "predictions": [
+            [
+                "camera"
+            ],
+            [
+                "capture"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring water and com ##fy shoes",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring water and wear suns ##creen and a hat",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a blanket or",
+        "predictions": [
+            [
+                "blanket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "blanket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear good sturdy shoes and be prepared to work hard on the ascent",
+        "predictions": [
+            [
+                "sturdy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sturdy",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " purchased tickets well in advance for the statue and the crown",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " picked up a hat i had seen earlier and another shirt",
+        "predictions": [
+            [
+                "a",
+                "hat"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "shirt"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "shirt"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take an extra 5 for a shaved ice at the bottom",
+        "predictions": [
+            [
+                "shaved",
+                "ice"
+            ],
+            [
+                "ice"
+            ]
+        ],
+        "true_labels": [
+            [
+                "extra",
+                "5"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a water bottle the water is free from drinking fountains round",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "bottle"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water",
+                "bottle"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy reserved tickets",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you have your water bottle with you",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "bottle"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water",
+                "bottle"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " loved our visit to qu ##tub it is a beautiful site and loving ##ly cared for we visited on a very hot day so take water with you and a hat because there isn ##t a lot of shade",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t take big bags",
+        "predictions": [],
+        "true_labels": [
+            [
+                "big",
+                "bags"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear shoes and not sandals or flip flop ##s",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "sandals"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "sandals"
+            ],
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you take hats and water and comfortable shoes as there is not much shade and its very hot",
+        "predictions": [
+            [
+                "hats"
+            ],
+            [
+                "water"
+            ],
+            [
+                "shoes"
+            ],
+            [
+                "shade"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hats"
+            ],
+            [
+                "water"
+            ],
+            [
+                "comfortable",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " managed this after a big walk to get to start in flip flop ##s and sar ##ong ##s",
+        "predictions": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "sar",
+                "##ong",
+                "##s"
+            ]
+        ],
+        "true_labels": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " remove your cap or hat",
+        "predictions": [
+            [
+                "cap"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cap"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take flip flop ##s and towels ideally book a cabin",
+        "predictions": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "towels"
+            ]
+        ],
+        "true_labels": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "towels"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " suggest high ##top hiking boots",
+        "predictions": [
+            [
+                "high",
+                "##top",
+                "hiking",
+                "boots"
+            ],
+            [
+                "hiking",
+                "boots"
+            ]
+        ],
+        "true_labels": [
+            [
+                "high",
+                "##top",
+                "hiking",
+                "boots"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable clothes and shoes here",
+        "predictions": [
+            [
+                "comfortable",
+                "clothes"
+            ],
+            [
+                "clothes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "comfortable",
+                "clothes"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to wear very comfortable walking or hiking shoes and if your skin burns easily suns ##creen and a hat",
+        "predictions": [
+            [
+                "walking",
+                "or",
+                "hiking",
+                "shoes"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hiking",
+                "shoes"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy timed tickets",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable shoes and bring a good camera",
+        "predictions": [
+            [
+                "shoes"
+            ],
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a book along and enjoy one green oasis wi ##h hardly people in india",
+        "predictions": [
+            [
+                "book"
+            ]
+        ],
+        "true_labels": [
+            [
+                "book"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable foot ##wear shuttle service available from metro station",
+        "predictions": [
+            [
+                "wear"
+            ],
+            [
+                "comfortable",
+                "foot"
+            ],
+            [
+                "foot"
+            ],
+            [
+                "##wear"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t take anything apart from your wallet camera phone as security is tight and there is nowhere to leave anything so it gets bin ##ned",
+        "predictions": [
+            [
+                "wallet"
+            ],
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wallet"
+            ],
+            [
+                "camera"
+            ],
+            [
+                "phone"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy your tickets and reserve your time online",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear suns ##creen and tennis shoes",
+        "predictions": [
+            [
+                "suns"
+            ],
+            [
+                "tennis",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "suns"
+            ],
+            [
+                "tennis",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy tickets in advance try to go at night when its beautifully lit make sure all elevators are operational to avoid ho ##rre ##ndo ##us waits buy the summit ticket if you are ok with heights avoid people doing surveys as they may be trying to distract you",
+        "predictions": [
+            [
+                "tickets"
+            ],
+            [
+                "ticket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to bring water shoes as the beaches are all rock no sand",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your camera and take lots of pictures",
+        "predictions": [
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " remember your rain ##coat hat umbrella to",
+        "predictions": [
+            [
+                "rain",
+                "##coat",
+                "hat"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "umbrella"
+            ]
+        ],
+        "true_labels": [
+            [
+                "rain"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "umbrella"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take the head ##phones",
+        "predictions": [
+            [
+                "head"
+            ],
+            [
+                "##phones"
+            ]
+        ],
+        "true_labels": [
+            [
+                "head"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " go early and get your tickets ahead of time",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget your flip flop ##s or towel or bathing cap if you want to do laps ##ther ##e are lots of water fountains around so do keep hydra ##ted ##most of all have fun its a qui ##rky and great experience that we loved",
+        "predictions": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "bathing"
+            ],
+            [
+                "water",
+                "fountains"
+            ]
+        ],
+        "true_labels": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "bathing",
+                "cap"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget water hat and suns ##creen ##s",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "suns"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "suns"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you purchase your tickets in advance to worth not having to make those long lines",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear com ##fy shoes and dress for the weather",
+        "predictions": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ],
+            [
+                "dress"
+            ]
+        ],
+        "true_labels": [
+            [
+                "shoes"
+            ],
+            [
+                "dress"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " keep your camera active to click a picture of mina ##r with flight",
+        "predictions": [
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a basket fill with cheese wine grapes etc",
+        "predictions": [
+            [
+                "basket"
+            ],
+            [
+                "cheese"
+            ],
+            [
+                "wine"
+            ],
+            [
+                "grapes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "basket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget comfortable clothing and shoes",
+        "predictions": [
+            [
+                "comfortable",
+                "clothing"
+            ],
+            [
+                "clothing"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "comfortable",
+                "clothing"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " use the zoom on your cameras to get good pictures and go walking down champs ##eley ##see ##s for nice shopping",
+        "predictions": [
+            [
+                "zoom"
+            ],
+            [
+                "cameras"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cameras"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " picked up a map and started to climb by 83 ##0 ##am",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " buy your tickets online before you get to the city as there is no chance of getting in on the day you visit unless you purchase prior",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear com ##fy walking shoes as the track is uneven",
+        "predictions": [
+            [
+                "com",
+                "##fy",
+                "walking",
+                "shoes"
+            ],
+            [
+                "walking",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " pre buy a ticket to avoid queue ##s",
+        "predictions": [
+            [
+                "ticket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "ticket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear sunglasses or a hat and bring water",
+        "predictions": [
+            [
+                "sunglasses"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sunglasses"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget your suns ##creen and good walking shoes",
+        "predictions": [
+            [
+                "suns"
+            ],
+            [
+                "walking",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "suns"
+            ],
+            [
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your tissues and pay your respects",
+        "predictions": [
+            [
+                "tissues"
+            ],
+            [
+                "respects"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring tissues this beautiful but solemn reminder of hungary ##s tragic history is worth a visit",
+        "predictions": [
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " don ##t forget your flip flop ##s towel and if you can bring your hotel robes they will come in handy",
+        "predictions": [
+            [
+                "flip",
+                "flop"
+            ],
+            [
+                "flop"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "hotel",
+                "robes"
+            ],
+            [
+                "robes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "hotel",
+                "robes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure to wear kicking shoes that don ##t slip",
+        "predictions": [
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "kicking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " was there around 930 is ##h most shops had started to open as shopping hours are usually between 103 ##0 onwards so some shops were closed its something you have to try out at least once in your life would recommend it for kids or wheelchair ##bound tourists streets are super tiny would recommend lots of suns ##creen as it was super hot and keep an eye on your personal belongings i would suggest to go there with a trusted local guide as it very easy to get lost in the maze of the back streets",
+        "predictions": [
+            [
+                "suns"
+            ]
+        ],
+        "true_labels": [
+            [
+                "suns"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " grab a map or speak to friendly staff and they will guide you",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " book tickets online well in advance",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a camera and a bottle of water",
+        "predictions": [
+            [
+                "camera"
+            ],
+            [
+                "bottle",
+                "of",
+                "water"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "camera"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " have tissues on hand",
+        "predictions": [
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring an umbrella",
+        "predictions": [
+            [
+                "umbrella"
+            ]
+        ],
+        "true_labels": [
+            [
+                "umbrella"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " visited with family of 2 daughters 11 15 and loved every minute only advise would be to book tickets on line as ea ##lr ##y as possible",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring your water and your camera",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "camera"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "camera"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a hat light colored clothes suns ##creen and plenty of water",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "light",
+                "colored",
+                "clothes"
+            ],
+            [
+                "clothes"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "light",
+                "colored",
+                "clothes"
+            ],
+            [
+                "suns"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to get a map so you don ##t miss all the historical places along the way",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear comfortable walking shoes too",
+        "predictions": [
+            [
+                "walking",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "comfortable",
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take water and wear good sneakers or hiking shoes",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "sneakers"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "sneakers"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take plenty of bottled water it was hot when we went september and the full tour does involved a lot of walking with minimal shade",
+        "predictions": [
+            [
+                "bottled"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "bottled",
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a hat and water",
+        "predictions": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " had a banana more water",
+        "predictions": [
+            [
+                "banana"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "banana"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " book your tickets in advance to prevent long queue ##s",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take your own food and drinks as the museum cafe prices are ex ##tort ##ion ##ate",
+        "predictions": [
+            [
+                "food"
+            ],
+            [
+                "drinks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "food"
+            ],
+            [
+                "drinks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you have thick socks as the ground can get very hot in the sun",
+        "predictions": [
+            [
+                "thick",
+                "socks"
+            ],
+            [
+                "socks"
+            ]
+        ],
+        "true_labels": [
+            [
+                "thick",
+                "socks"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " have so many scenes to take photos very busy and better to get your tickets online to avoid waiting long ##wear comfortable shoes ##you can take beautiful photos if the cn ti ##wer from the top tower",
+        "predictions": [
+            [
+                "scenes",
+                "to",
+                "take",
+                "photos",
+                "very",
+                "busy",
+                "and",
+                "better",
+                "to",
+                "get",
+                "your",
+                "tickets"
+            ],
+            [
+                "tickets"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " print a map from the metro site before you go as",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " saw many with flip flop ##s and or bare foot and thought how ridiculous",
+        "predictions": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ],
+        "true_labels": [
+            [
+                "flip",
+                "flop",
+                "##s"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear sturdy comfortable walking shoes not flip ##fl ##ops or slip ##pers as the locals call them and take your time",
+        "predictions": [
+            [
+                "sturdy",
+                "comfortable",
+                "walking",
+                "shoes"
+            ],
+            [
+                "comfortable",
+                "walking",
+                "shoes"
+            ],
+            [
+                "walking",
+                "shoes"
+            ],
+            [
+                "flip"
+            ],
+            [
+                "slip"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "shoes"
+            ],
+            [
+                "flip"
+            ],
+            [
+                "slip"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to wear comfortable shoes and be comfortable with a lot of walking",
+        "predictions": [
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "comfortable",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be aware of the crowds and keep your bags close to you",
+        "predictions": [
+            [
+                "bags"
+            ]
+        ],
+        "true_labels": [
+            [
+                "bags"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you get a rain coat on rainy season ##beau ##ti ##ful place to spend half a day",
+        "predictions": [
+            [
+                "rain",
+                "coat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "rain",
+                "coat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " get your tickets ahead of time the waiting line was over an hour",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring comfortable walking hiking shoes and be prepared for some steep incline ##s in places",
+        "predictions": [
+            [
+                "comfortable",
+                "walking",
+                "hiking",
+                "shoes"
+            ],
+            [
+                "walking",
+                "hiking",
+                "shoes"
+            ],
+            [
+                "hiking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "hiking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear good foot ##wear sneakers",
+        "predictions": [
+            [
+                "wear"
+            ],
+            [
+                "foot"
+            ],
+            [
+                "sneakers"
+            ]
+        ],
+        "true_labels": [
+            [
+                "wear"
+            ],
+            [
+                "sneakers"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " keep moving so you don ##t get acc ##ost ##ed your hands on your kids so you don ##t loose them in the river of people and your cash secured",
+        "predictions": [
+            [
+                "moving",
+                "so",
+                "you",
+                "don",
+                "##t",
+                "get",
+                "acc",
+                "##ost",
+                "##ed",
+                "your",
+                "hands",
+                "on",
+                "your",
+                "kids"
+            ],
+            [
+                "kids"
+            ],
+            [
+                "cash"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take snacks and water",
+        "predictions": [
+            [
+                "snacks"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "true_labels": [
+            [
+                "snacks"
+            ],
+            [
+                "water"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to buy tickets in advance so you can skip the long lines to buy tickets",
+        "predictions": [
+            [
+                "tickets"
+            ],
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take water and wear a hat",
+        "predictions": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ]
+        ],
+        "true_labels": [
+            [
+                "water"
+            ],
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " went with tour guides provided by my hotel ##it was a fun excursion ##how ##ever there are a lot of people selling merchandise that can get a little too close but i understand they are trying to make profit ##oth ##er than that come with a nice hat water and com ##fy shoes",
+        "predictions": [
+            [
+                "guides"
+            ],
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hat"
+            ],
+            [
+                "water"
+            ],
+            [
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring a jacket as it gets chilly up there",
+        "predictions": [
+            [
+                "jacket"
+            ]
+        ],
+        "true_labels": [
+            [
+                "jacket"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " avoid the line and buy your tickets in advance and note tickets to the top of the e ##iff ##el sell out weeks in advance so book early",
+        "predictions": [
+            [
+                "tickets"
+            ],
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a big box of tissues and plan to spend twice as much time here as you think you will need",
+        "predictions": [
+            [
+                "box"
+            ],
+            [
+                "tissues"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tissues"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a map of the system as station names are in cy ##rri ##lic",
+        "predictions": [
+            [
+                "map"
+            ]
+        ],
+        "true_labels": [
+            [
+                "map"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be advised to carry a cap with shades and sun ##block if its sunny",
+        "predictions": [
+            [
+                "cap"
+            ],
+            [
+                "shades"
+            ],
+            [
+                "sun"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cap"
+            ],
+            [
+                "shades"
+            ],
+            [
+                "sun"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " put on your sneakers as there are some stairs to climb",
+        "predictions": [
+            [
+                "sneakers"
+            ]
+        ],
+        "true_labels": [
+            [
+                "sneakers"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " used a guide book rather than extra cost audio guide to get descriptions of the artifacts",
+        "predictions": [
+            [
+                "guide",
+                "book"
+            ],
+            [
+                "audio",
+                "guide"
+            ]
+        ],
+        "true_labels": [
+            [
+                "guide",
+                "book"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " be sure to wear walking shoes",
+        "predictions": [
+            [
+                "walking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring cash for the ice cream truck ##tip when you leave the park use the high park b ##l ##vd",
+        "predictions": [
+            [
+                "cash"
+            ],
+            [
+                "ice",
+                "cream",
+                "truck"
+            ],
+            [
+                "truck"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " getting the tickets was tough online",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring cash for the entrance 5 per car or 1 per pedestrian",
+        "predictions": [
+            [
+                "cash"
+            ],
+            [
+                "car"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " wear your com ##fy shoes its an up ##hill trek to get to the top of the hill ##the church has a nice scenic view of paris but can ##t see the tower due to the trees ##kee ##p an eye on people selling their ware ##s along the way",
+        "predictions": [
+            [
+                "wear",
+                "your",
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ],
+            [
+                "##fy",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "com",
+                "##fy",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " recommend getting the fast track tickets",
+        "predictions": [
+            [
+                "fast",
+                "track",
+                "tickets"
+            ],
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " bring lots of cash to tip the guides they are so full of knowledge and have to do a lot of studying to even be able to step foot on the grounds",
+        "predictions": [
+            [
+                "cash"
+            ]
+        ],
+        "true_labels": [
+            [
+                "cash"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " did not have tickets to the top but even if we did there was huge line ups",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " make sure you have your hiking shoes on",
+        "predictions": [
+            [
+                "hiking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "hiking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " do wear walking shoes because you will be going up and down steps plus stepping over entry ##ways",
+        "predictions": [
+            [
+                "walking",
+                "shoes"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "walking",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take a drink and wear sensible shoes",
+        "predictions": [
+            [
+                "drink"
+            ],
+            [
+                "shoes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "drink"
+            ],
+            [
+                "sensible",
+                "shoes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " visiting during the winter december made it important to bring warm clothes but the reward is a very",
+        "predictions": [
+            [
+                "warm",
+                "clothes"
+            ],
+            [
+                "clothes"
+            ]
+        ],
+        "true_labels": [
+            [
+                "warm",
+                "clothes"
+            ]
+        ]
+    },
+    {
+        "query": "a thing which a person might want to carry along , while going on a trip ",
+        "context": " take the time to book tickets ahead of schedule to go to the top",
+        "predictions": [
+            [
+                "tickets"
+            ]
+        ],
+        "true_labels": [
+            [
+                "tickets"
+            ]
+        ]
+    }
+]

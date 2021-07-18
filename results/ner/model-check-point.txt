@@ -1,0 +1,4 @@
+https://drive.google.com/file/d/19TKrB-1hI6MZdATgkuZUzyYXV9XMlHui/view?usp=sharing
+
+
+This the link for the trained model file based on mrc-ner paper implementation, The model achieved 0.79 f1 score on our dataset when the query was "A thing which a person might want to carry along, while going on a trip"

@@ -1,0 +1,2342 @@
+[
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take off your shoes to walk on the uneven floors for a bit  they shouldnt complain since the artist makes a big deal about this ",
+        "answer": "shoes",
+        "score": 0.9408181023920505
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you have enough coins because inside the basilique they dont have change",
+        "answer": "coins",
+        "score": 0.9876092989759933
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be prepared to remove your footwear outside at the entrance",
+        "answer": "footwear",
+        "score": 0.9128963270010644
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water it is hot",
+        "answer": "water",
+        "score": 0.8139463674401952
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water with you  it can get quite hot",
+        "answer": "water",
+        "score": 0.8182469215147421
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear proper shoes  hat  water",
+        "answer": "shoes",
+        "score": 0.8045493826658756
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "seeing those artifacts that came from the site of the towers made you appreciate it even more",
+        "answer": "artifacts",
+        "score": 0.8399602847597407
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "took lots of photos",
+        "answer": "photos",
+        "score": 0.8289472665686191
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "having a guide certainly added colour to the visit through the interesting historical stories about the ruins",
+        "answer": "a guide",
+        "score": 0.8855722247878894
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water or you",
+        "answer": "water",
+        "score": 0.9194563372782198
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pick pocket warnings all over the place",
+        "answer": "pick pocket warnings",
+        "score": 0.9781655576184001
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go to longchamps and buy yourself a classy tote",
+        "answer": "a classy tote",
+        "score": 0.8077637067998324
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water and enjoy",
+        "answer": "water",
+        "score": 0.833528663631455
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do not waste your money on the food",
+        "answer": "food",
+        "score": 0.8621261574069727
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch your bags  it is very busy",
+        "answer": "bags",
+        "score": 0.865296982210559
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "advise you to take cable cars  save your power for later ",
+        "answer": "cable cars",
+        "score": 0.918183749254311
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take care of your bags at the small market at the entrance",
+        "answer": "bags",
+        "score": 0.9494213918227707
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go and take pictures",
+        "answer": "pictures",
+        "score": 0.8232076067813878
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pay for parking  but the entrance is free",
+        "answer": "parking",
+        "score": 0.8151999266857857
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets ahead as we did",
+        "answer": "book tickets",
+        "score": 0.9898614923772051
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be aware after you get your tickets  there is another line to get into the church  guess they limit the number of people inside the church",
+        "answer": "tickets",
+        "score": 0.9403751114612078
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water  hat  umbrella as it was so so hot",
+        "answer": "water hat umbrella",
+        "score": 0.8899796469803789
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water and go in the morning before it gets hot",
+        "answer": "water",
+        "score": 0.9298125444636298
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "thank god i bought all our tickets online",
+        "answer": "tickets",
+        "score": 0.9367833513333181
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "have tea at the four seasons",
+        "answer": "tea",
+        "score": 0.9580523445172986
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to get the audio guide before starting the tour",
+        "answer": "audio guide",
+        "score": 0.8342258493522756
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take audioguide and enjoy a lot of info",
+        "answer": "audioguide",
+        "score": 0.9556410336312844
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take your camera o phone fully charge",
+        "answer": "camera",
+        "score": 0.8312028351892771
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you get your tickets  we did a guided tour  which i highly recommend  online before you travel",
+        "answer": "tickets",
+        "score": 0.8872551798392969
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prepared for almost anything  but especially crowds  we braved the pilgrimage to this splendid tomb",
+        "answer": "crowds",
+        "score": 0.8982535187540535
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure youve got your comfortable shoes on",
+        "answer": "shoes",
+        "score": 0.8806334401806168
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water and have a meal at the base there is a lovely family restaurant that serves authentic and tasty",
+        "answer": "water",
+        "score": 0.9522350989643797
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water and bug spray",
+        "answer": "water and bug spray",
+        "score": 0.8225651752610474
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "heard horror stories about the lines so prebooked tickets through tickitalycom",
+        "answer": "tickets",
+        "score": 0.9053797837619939
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "beforing entering into the place where worship is done",
+        "answer": "worship",
+        "score": 0.8967547804786591
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take plenty of cash as you will but a lot",
+        "answer": "cash",
+        "score": 0.8144289529573143
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "walking along shinsaibashisuji is an interesting experience",
+        "answer": "shinsaibashisuji",
+        "score": 0.9706322898145459
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets ahead of time online or be prepared to stand in a very very long line",
+        "answer": "tickets",
+        "score": 0.8227146154116696
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "going there be sure to wear the most comfortable shoes bec",
+        "answer": "shoes",
+        "score": 0.8610312845179706
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went straight to pandas and werent disappointed",
+        "answer": "pandas",
+        "score": 0.9475681334396029
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "beware of pick pockets on the bus",
+        "answer": "pick pockets",
+        "score": 0.9781192063829955
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to wear sneakers so youre extra comfortable",
+        "answer": "sneakers",
+        "score": 0.9123927799655576
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont miss the fabulous wienerschnitzels  hand made at site",
+        "answer": "wienerschnitzels",
+        "score": 0.894153476657884
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets online to avoid queuethere are lots of attractions at the zoo and different varieties of animals from all over the worldwe pay a special visit in memory of a good friend who worked as a volunteer at the zoo and she passed away last year",
+        "answer": "tickets",
+        "score": 0.8714379168938535
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "riding is fine if you like sculptures",
+        "answer": "riding",
+        "score": 0.8742427188477393
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets prior to arrival to avoid disappointment",
+        "answer": "tickets",
+        "score": 0.9796832989460391
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "played some roulette and then blackjack",
+        "answer": "blackjack",
+        "score": 0.8208922198476074
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets online from yatra monuments otherwise you have to stand in a long queue",
+        "answer": "book tickets",
+        "score": 0.9650125102131284
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "need to prepare with sunscreen and make sure you are hydrated",
+        "answer": "sunscreen",
+        "score": 0.8152042093865077
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water and caps hats because the sun was blazing hot in summer",
+        "answer": "water and caps hats",
+        "score": 0.8060284200679035
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "joined the line to get the tickets for the ferry across which took around 45 mins  then joined the line for the ferry itself",
+        "answer": "tickets",
+        "score": 0.808593283977558
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be sure to have tour guide to explain",
+        "answer": "tour guide",
+        "score": 0.9548614665412529
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water  hats or unmbrellas its sooooooooo hot",
+        "answer": "water hats",
+        "score": 0.9066884695775599
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "stopped when we wanted to take photos",
+        "answer": "photos",
+        "score": 0.9140818822028827
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "ensure you get your tickets on line from trip advisor sites",
+        "answer": "tickets",
+        "score": 0.9458232970073155
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be mindful of the bicycles",
+        "answer": "bicycles",
+        "score": 0.8747102179027202
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets in advance because the lines are long",
+        "answer": "tickets",
+        "score": 0.9699811058330852
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch your pockets and especially wallets and  phones",
+        "answer": "wallets and phones",
+        "score": 0.8257876365889913
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be advised my husband and i are both nerds  we love science and technology",
+        "answer": "science and technology",
+        "score": 0.9267937718351007
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to switch off all the electronics and to immerse in its tranquility",
+        "answer": "electronics",
+        "score": 0.8464208060768712
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "recommend you where comfortable shoes",
+        "answer": "shoes",
+        "score": 0.9510333131261071
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had to wait over 15 hours in queue and price of the tickets also expensive",
+        "answer": "tickets",
+        "score": 0.8253598409934391
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you bring your sunnies and hat as the weather is pretty hot there and there are very limited shades",
+        "answer": "sunnies and hat",
+        "score": 0.8795609369780379
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you bring some water though",
+        "answer": "water",
+        "score": 0.8200483991880105
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be careful the bicycles going across as they dont sow down",
+        "answer": "bicycles",
+        "score": 0.9588296178308902
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be sure to bring lots of water as there is no shade once you are at the pyramid",
+        "answer": "water",
+        "score": 0.8132779171194926
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water  and for some people it would be better to walk the climb early in the day",
+        "answer": "water",
+        "score": 0.9286948554125267
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "recommend eating in the hogwarts cafe in the outside part out the back amazing view of castle and got decent feed of fish and chips",
+        "answer": "fish and chips",
+        "score": 0.9211455510474309
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water with you",
+        "answer": "water",
+        "score": 0.8960469276514402
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you have comfortable shoes on",
+        "answer": "shoes",
+        "score": 0.8797820324883006
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be careful about cars when taking photo",
+        "answer": "cars",
+        "score": 0.9078280178765361
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went to windsor castle to visit last week  and what a joy  please book online its much quicker  had tickets and just had to go through security checks in castle in 15 mins",
+        "answer": "tickets",
+        "score": 0.8425720140723101
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be sure to bring water along on your hike to the top",
+        "answer": "water",
+        "score": 0.9901694776935663
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring tissues",
+        "answer": "tissues",
+        "score": 0.8360740823605184
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring cash though",
+        "answer": "cash",
+        "score": 0.9239441156305475
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book the day before on the national reserve website",
+        "answer": "book",
+        "score": 0.8327589491840293
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy the tickets before hand",
+        "answer": "tickets",
+        "score": 0.9484637593691865
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "remember to bring water with you",
+        "answer": "water",
+        "score": 0.9503752276914135
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to have your ticket signed stamped",
+        "answer": "ticket",
+        "score": 0.87424496705151
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do not buy tickets online",
+        "answer": "tickets",
+        "score": 0.8014495614488588
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "havent seen her eat so much chocolate before",
+        "answer": "chocolate",
+        "score": 0.9493940734658395
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water",
+        "answer": "water",
+        "score": 0.8850618771309655
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pre booked tickets and had 10 minute wait for the lift",
+        "answer": "tickets",
+        "score": 0.8971954427785533
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear shoes you are comfortable walking in",
+        "answer": "shoes",
+        "score": 0.9416528899642032
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water with you as the cost to buy it up there is ridiculous",
+        "answer": "water",
+        "score": 0.906971884136567
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "starting with prop planes and ending with",
+        "answer": "prop planes",
+        "score": 0.9240867658679406
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be warned you need to take water and be reasonably fit as it is a good climb",
+        "answer": "water",
+        "score": 0.9510751542176195
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets in advance online to cut down on lines",
+        "answer": "tickets",
+        "score": 0.9494667664264789
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "fill with restaurants pubs and ice cream parlours  lot of explore and walk around to",
+        "answer": "ice cream",
+        "score": 0.9052319503730359
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your own towels and flip flops",
+        "answer": "towels",
+        "score": 0.8269000211797533
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prepare to be awestruck  and hot make sure to take water",
+        "answer": "water",
+        "score": 0.9502222877201127
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prepare well  take lots of water  wear comfortable shoes and prepare not to stop once youve started",
+        "answer": "shoes",
+        "score": 0.8757114374446715
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pre booking with statue cruises is the only way to get tickets to go inside the statue and we skipped a massive que to get on the ferry out to liberty island  which was great as",
+        "answer": "tickets",
+        "score": 0.8684826665246383
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear comfortable shoes and dress in layers during the winter months",
+        "answer": "shoes",
+        "score": 0.806276366403381
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets from coopculture website cheapest around and the only official site",
+        "answer": "book tickets",
+        "score": 0.9629436773816167
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "being a vacation time in july it was crowded and lots of sun and had to wait a long to get the tickets as well as going to the top but once youre in everything was worth  but",
+        "answer": "tickets",
+        "score": 0.9514219179524801
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "think it would of been at least an hour in the cue without these tickets",
+        "answer": "tickets",
+        "score": 0.9459213962175603
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets in advance for a time entry out to the arizona",
+        "answer": "tickets",
+        "score": 0.9738638790069558
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get a map",
+        "answer": "a map",
+        "score": 0.8063639690246731
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do rent the audio guide makes a world of difference",
+        "answer": "audio guide",
+        "score": 0.8472683325219421
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets onlinealways crowded  but worth the wait",
+        "answer": "tickets",
+        "score": 0.9438496878223184
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get ready with your camera",
+        "answer": "camera",
+        "score": 0.8818128639206506
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had pasta in one of the restaurant there",
+        "answer": "pasta",
+        "score": 0.9892536560640508
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take that slow pace so you can see all the colourful fish",
+        "answer": "fish",
+        "score": 0.8749327192761811
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take cash with you as the entrance fee  1 person  needs",
+        "answer": "cash",
+        "score": 0.9638310377090029
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to carry water bottle",
+        "answer": "water bottle",
+        "score": 0.9344178373897449
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take the time to purchase your tickets directly from the colosseum",
+        "answer": "tickets",
+        "score": 0.9355785131964467
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wander down every street and sample the treats along the way",
+        "answer": "treats",
+        "score": 0.8879892960244753
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "overpriced food and drinks",
+        "answer": "food and drinks",
+        "score": 0.8199587391150231
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "enjoyed our walk  coffee after",
+        "answer": "coffee",
+        "score": 0.9884695960432985
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "walking along the banks of the danube on a beautiful sunny day chatting away we were stopped in our tracks by this very simple memorial to the people who had to remove their shoes before being shot and left to fall into the river",
+        "answer": "shoes",
+        "score": 0.9043762628026499
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "spent the day there  the ferry ride over it was pouring rain  and so we grabbed some  very expensive  tea in the restaurant while we waited for the rain to die down",
+        "answer": "tea",
+        "score": 0.8640392217941297
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "ended in dumbo on other side for park  strolling  coffee shops",
+        "answer": "coffee shops",
+        "score": 0.9523925642888109
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch out for bicycles when walking it",
+        "answer": "bicycles",
+        "score": 0.983746646520256
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "popped into this wonderful hotel and had a wonderful tea and cake",
+        "answer": "tea and cake",
+        "score": 0.8608191794238849
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "getting there on the ferry boat or water taxi is part of the unbelievable experienceyou can walk from the western part of the island from  hanlans point   passing through centre isalnd  and end up at the eastern part of 5he island  wards islandyou can engage in a variety of activities  hiking  cycling  exploring or just relaxing on the beachwhat a wonderful way to de stress and enjoy nature",
+        "answer": "water taxi",
+        "score": 0.858460465603855
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "enjoyed the 15 hour drive up to mutianyu from beijing city with our tour guide from viator",
+        "answer": "tour guide",
+        "score": 0.9045574953810593
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "carry water and wear good shoes and a hat",
+        "answer": "water",
+        "score": 0.9390450909771104
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "expecting massive queues after failing to prebook  dont bother  far too much hassle   we got there early and had about ten minutes of waiting before we had tickets in hand and were getting into the lift to head skywards",
+        "answer": "tickets",
+        "score": 0.9630405505664399
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "lasted over 3 hours including forum tour",
+        "answer": "forum tour",
+        "score": 0.8978402639418164
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to take with you cold water and hat",
+        "answer": "cold water and hat",
+        "score": 0.8018056217828757
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take care of belongings",
+        "answer": "belongings",
+        "score": 0.9334152691187825
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring tissues and prepare to be on the edge of tears for a few hours  because the exhibits are",
+        "answer": "tissues",
+        "score": 0.8172550985822902
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your free tickets reserved ahead of time",
+        "answer": "free tickets",
+        "score": 0.8528287587181325
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "check your ticket allows you entrance to go inside the statue and pre book your tickets",
+        "answer": "tickets",
+        "score": 0.8998495472497758
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch out for bicycles though",
+        "answer": "bicycles",
+        "score": 0.9862763768652663
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water especially if it is warm out",
+        "answer": "water",
+        "score": 0.8888825139479337
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your flip flops and bathing suit",
+        "answer": "bathing suit",
+        "score": 0.8058850465027234
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear shoes with a good tread as the rocks can be slippery",
+        "answer": "shoes",
+        "score": 0.8288601778973259
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "seeing the size of the aircraft carriers in the harbor is",
+        "answer": "aircraft carriers",
+        "score": 0.8424297815519708
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "was a great trip  we prebooked tickets which meant we didnt queue too much at the start however once you get to the second floor we queued for 45 minuted to get the lift to the top",
+        "answer": "tickets",
+        "score": 0.9694652449732821
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "skip the line tickets are a must",
+        "answer": "tickets",
+        "score": 0.9922329373527425
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to wear comfortable shoes though",
+        "answer": "shoes",
+        "score": 0.821620097361695
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take bread to feed the wildlife",
+        "answer": "bread",
+        "score": 0.9675497978832936
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to buy shoe covers as its not included in the ticket for indians",
+        "answer": "shoe covers",
+        "score": 0.9141353163358445
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water and go to the washroom before heading up as there are no restrooms up there",
+        "answer": "water",
+        "score": 0.8289188779431242
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you take water  sports shoes and wear sunscreen",
+        "answer": "water sports shoes",
+        "score": 0.8016104441230709
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go and get tickets to one of the memorable classical concerts in the mtyas templom  the mathew church",
+        "answer": "tickets",
+        "score": 0.9203017759787073
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you plan ahead of time and get your tickets early",
+        "answer": "tickets",
+        "score": 0.9700939855908004
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "changing of the guards is fun to see",
+        "answer": "changing of the guards",
+        "score": 0.8958920072224004
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "carry drinking water as you cant get it inside",
+        "answer": "drinking water",
+        "score": 0.9795085327089659
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your timing right and have lunch there",
+        "answer": "lunch",
+        "score": 0.9572560067716722
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take advantage of the free walking tour that sets off from where you collect your audio guide as it sets the scene",
+        "answer": "audio guide",
+        "score": 0.9214274617494596
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "visit the place before sunset to get a good view and snaps  one can observe the newly replaced stones in the monument",
+        "answer": "stones",
+        "score": 0.8720058918511882
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get tickets in advance if possible to save some waiting time",
+        "answer": "tickets",
+        "score": 0.9038740737634754
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets in advance to avoid any queuing",
+        "answer": "book tickets",
+        "score": 0.9839326805570181
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets in advance online to avoid even longer lines",
+        "answer": "tickets",
+        "score": 0.9036131096085604
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go early to spend some time  lunch  in town",
+        "answer": "lunch",
+        "score": 0.9802831297689778
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get ready for many tourists  and random people trying to sell you souvenirs",
+        "answer": "souvenirs",
+        "score": 0.9611544118431539
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets months before hand if you want to go inside the statue",
+        "answer": "tickets",
+        "score": 0.9733480778440367
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arrived at 930am  seeing a huge line which we could bypass since we had tickets already",
+        "answer": "tickets",
+        "score": 0.9842195954575601
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "try staying on the right side to not block the bicycles",
+        "answer": "bicycles",
+        "score": 0.9706171364234422
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "grab your favourite cup of coffee and go for a stroll",
+        "answer": "coffee",
+        "score": 0.871885525487496
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "protected by our slickers  we dodged umbrellas and enjoyed every part of the garden  from upper to lower  and the many stories our guide  tatianna  of spb shared with us",
+        "answer": "umbrellas",
+        "score": 0.9675971297601507
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "allow at least 2 hours to get out and take lots of water",
+        "answer": "water",
+        "score": 0.8294798323792705
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "attempting to buy tickets on the",
+        "answer": "tickets",
+        "score": 0.9322012712433363
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take your camera   everyone else did  ",
+        "answer": "camera",
+        "score": 0.9514932966248324
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you bring plenty of water",
+        "answer": "water",
+        "score": 0.8198607797607416
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water  suncream",
+        "answer": "water suncream",
+        "score": 0.8343631002589014
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "walk around the city walls  its free and has wonderful views of the city and beaches  cafes en route provide food and drink",
+        "answer": "food and drink",
+        "score": 0.848900191866619
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "walk along the bridge  and careful with the bicycles way",
+        "answer": "bicycles",
+        "score": 0.8936524347410568
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "thank you nadia for a great tripps make sure you book nadias trip  not the other food and drink tour which has just started up and has a deceptively similar name",
+        "answer": "food and drink",
+        "score": 0.8824035520197597
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "blending these bells with the hellenic style architecture is a fine example of the fusion of indian and european designs",
+        "answer": "bells",
+        "score": 0.8261009366096701
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "purchased tickets online and showed up at set time",
+        "answer": "tickets",
+        "score": 0.8569772115593537
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "was approached by homeless lady asking for money  and watched a drunk or high woman pretend she was doing a seductive strip tease dance in front of a police car",
+        "answer": "money",
+        "score": 0.8254089658625396
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prebooked tickets in the uk but there was still availability on the night  no price difference ",
+        "answer": "tickets",
+        "score": 0.946103747888813
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to take water",
+        "answer": "water",
+        "score": 0.8819318024402385
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "save time order your tickets on your phone and use the side entrance with little to no line where they simply scan your phone",
+        "answer": "tickets",
+        "score": 0.8109581254267084
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get the audio and",
+        "answer": "audio",
+        "score": 0.8181232398927207
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you have your camera with you",
+        "answer": "camera",
+        "score": 0.863503813345563
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be prepared for security check just like the airport",
+        "answer": "security check",
+        "score": 0.9547474227147639
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "visited with the family august 25  helmet  giveaway night ",
+        "answer": "helmet",
+        "score": 0.8847847139550318
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "rest rooms are few and far between",
+        "answer": "rest rooms",
+        "score": 0.9756634723344568
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "being runner it was rather chilly so wear warm clothing",
+        "answer": "warm clothing",
+        "score": 0.859950050138778
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water and try to avoid middle of the day since there isnt a lot of",
+        "answer": "water",
+        "score": 0.959958016842279
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you book your tickets before you go especially if you wish to eat at that tower",
+        "answer": "tickets",
+        "score": 0.858925461144846
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arrive early  select your museums and sites of interest then purchase those tickets ",
+        "answer": "tickets",
+        "score": 0.8231702457557155
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take enough water with you during yor visit",
+        "answer": "water",
+        "score": 0.8731964451341412
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "check google maps for the best route",
+        "answer": "check google maps",
+        "score": 0.820366145231457
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring headphones as otherwise you have to hold the device up to your ear the entire time",
+        "answer": "headphones",
+        "score": 0.954492268419898
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "remember to bring water shoes",
+        "answer": "water shoes",
+        "score": 0.9562943244280575
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets from the automatic ticket booth next to the ticket desk",
+        "answer": "tickets",
+        "score": 0.8954945678517632
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arriving at lunch we decided to walk the fifteen minutes from the hotel to the",
+        "answer": "lunch",
+        "score": 0.8630568156412046
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you see the palace and gardens with fountains",
+        "answer": "fountains",
+        "score": 0.8688912732511085
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bought the tickets on groupon",
+        "answer": "tickets",
+        "score": 0.9689589678339807
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get the tickets online",
+        "answer": "tickets",
+        "score": 0.8722767466430525
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had late night drinks in here in the wine bar section of these ruin bars",
+        "answer": "drinks",
+        "score": 0.9735677833404033
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to wear comfortable shoes",
+        "answer": "shoes",
+        "score": 0.8023992360909276
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be prepared to queue for a ticket",
+        "answer": "a ticket",
+        "score": 0.8126584889518895
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "didnt uses guide as we",
+        "answer": "guide",
+        "score": 0.9278672696094503
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "look no further than shinsaibashisuji",
+        "answer": "shinsaibashisuji",
+        "score": 0.868363834645379
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "lost my wife and daughters for hours whilst i blissfully enjoyed a coffee",
+        "answer": "coffee",
+        "score": 0.8826132332719681
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go by hydrofoil  halfhour each way  and be sure to get a return ticket",
+        "answer": "a return ticket",
+        "score": 0.8036841987387149
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "tucked away just off nevsky prospekt  a great place to relax and admire the architecture with a coffee",
+        "answer": "coffee",
+        "score": 0.8179219314975832
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your own ice skates and skate around in front of the sign",
+        "answer": "ice skates",
+        "score": 0.940866332296018
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went there by a boat and on our return we took marshrutka",
+        "answer": "marshrutka",
+        "score": 0.9824473789311519
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "has elevators if you cant climb stairs",
+        "answer": "elevators",
+        "score": 0.8402505472731256
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be sure to pay a small fee to be able to take pictures",
+        "answer": "pictures",
+        "score": 0.8421030187928409
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "ate lunch at a restaurant  shopped around a bit",
+        "answer": "lunch",
+        "score": 0.9611706096027319
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "being the only foreigners there we were clearly the honey around which the bees would gatherit starts apace with first the flower sellers and then the headscarf sellers and then more flower sellers and then the religious sweet sellers and then the candle sellersand then the charity collectorsto be very honest  despite an apparent religious significance and holiness  this temple shrine is actually not much more than a chaotic madhouseand not one for the uninitiated with crowds of people only too eager to relieve you of your pennies",
+        "answer": "honey",
+        "score": 0.8085648412253761
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets online if possible to avoid long queues and always go a little",
+        "answer": "book tickets",
+        "score": 0.9569386142334757
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your lunch and enjoy the patios gardens or eat at the restaurant there  you wont regret",
+        "answer": "lunch",
+        "score": 0.929530365018266
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy tickets before hand",
+        "answer": "tickets",
+        "score": 0.9107050632420979
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "loved the audio guide  we had used a few on our trip and this one was the best so far",
+        "answer": "audio guide",
+        "score": 0.9295135346869614
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "changing of the guards was great at 11",
+        "answer": "changing of the guards",
+        "score": 0.847217603849316
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "allow half a day minimum just to get around the place and take comfy shoes",
+        "answer": "comfy shoes",
+        "score": 0.8304487714192916
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take the tickets in advance over the internet  for the crystal car  in",
+        "answer": "tickets",
+        "score": 0.9004455598309562
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "crowded but plenty of opportunity to take pics",
+        "answer": "pics",
+        "score": 0.8969531807391959
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "loved that you could bring your own food into the stadium and adults can sign up at the budweiser kiosks if not drinking and get a free soft drink",
+        "answer": "food",
+        "score": 0.8233366588232549
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "crowded up there and not a lot of shade  so be prepared and carry water",
+        "answer": "water",
+        "score": 0.9819133409327563
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "didnt need to book ahead and just joined the queue for tickets",
+        "answer": "tickets",
+        "score": 0.8460054337979983
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear comfortable shoes  its a lot of walk if u want to explore",
+        "answer": "shoes",
+        "score": 0.8220169867253269
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had lunch at one of the outdoor cafes here",
+        "answer": "lunch",
+        "score": 0.9797264956481548
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you take flip flops   we had to buy some there which were relatively expensive  and get a private cabin for changing in",
+        "answer": "flip flops",
+        "score": 0.9156279022835321
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your binoculars and",
+        "answer": "binoculars",
+        "score": 0.9189090071022861
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring drinks and snacks",
+        "answer": "drinks and snacks",
+        "score": 0.8286056833493518
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be aware if you dont take flip flops youll be made to buy some expensive ones",
+        "answer": "flip flops",
+        "score": 0.9191110889241116
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you take your credit card",
+        "answer": "credit card",
+        "score": 0.8841469353214642
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy the paper guide as it is worth it to work out who is who",
+        "answer": "paper guide",
+        "score": 0.8059135674646782
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your tissues as you relive that infamous day",
+        "answer": "tissues",
+        "score": 0.9741619755779602
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pick pockets in area as well",
+        "answer": "pick pockets",
+        "score": 0.9641595186753946
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you take cash  we didnt  costs 200 huf to get in and another fee to climb to the roof",
+        "answer": "cash",
+        "score": 0.9115101382979134
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to bring water for each person in the group",
+        "answer": "water",
+        "score": 0.9750568474754502
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "shade was minimal and taken up my the vendors trying to sell you very cheaply priced souvenirs",
+        "answer": "souvenirs",
+        "score": 0.815863780777704
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "expect to overpay for food and drinks  but that should not come as a surprise",
+        "answer": "food and drinks",
+        "score": 0.8176300324669299
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring more water along as beverages much expensive here  cost rmb",
+        "answer": "water",
+        "score": 0.923194056293827
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy there tickets for the museum of rodin and orangerie  it will make your life easier at those museums",
+        "answer": "tickets",
+        "score": 0.8619760025096426
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "hand fired fireworks  vodka in the snow  drunk masseswhat more do you need on ny eve",
+        "answer": "vodka",
+        "score": 0.9009785940878601
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "reemerging back onto the street into the fresh air was a relief and interrupted by the same guy waiting to sell us concert tickets ",
+        "answer": "concert tickets",
+        "score": 0.948881892395498
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to grab your souvenirs",
+        "answer": "souvenirs",
+        "score": 0.9039927218627
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "meandering down the narrow streets and numerous shops",
+        "answer": "shops",
+        "score": 0.8618390023726192
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "worn out by this amazing collection  i left for coffee and cake and a sit down  but have vowed to return again to view the lower floor  and to lose myself once again in the startling work of egon schiele",
+        "answer": "coffee and cake",
+        "score": 0.804477322672426
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arrived shortly after 10 am  had tickets in hand which i printed at home for 11 am",
+        "answer": "tickets",
+        "score": 0.9817790725576714
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "looks pretty especially near christmas time",
+        "answer": "christmas",
+        "score": 0.8166171660625707
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had lunch at the monastery just wonderfull",
+        "answer": "lunch",
+        "score": 0.9637116967600932
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water  i brought 3 4 liter and finished it by the time we got to the top",
+        "answer": "water",
+        "score": 0.9117416292344771
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "including whale sharks",
+        "answer": "whale sharks",
+        "score": 0.8313120075986227
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to get a ticket in advance to avoid the queuevery much enjoyed the renoir exhibit juxtaposing father and sons work with extracts from jean renoirs films",
+        "answer": "a ticket",
+        "score": 0.8907687782650697
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pre booked our time slot before we traveled",
+        "answer": "time slot",
+        "score": 0.8768819580718059
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy the tickets from the vending machine to avoid queue",
+        "answer": "tickets",
+        "score": 0.9070336361661511
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets ahead of",
+        "answer": "tickets",
+        "score": 0.9397384284383321
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "drinking water is available at after you pass",
+        "answer": "drinking water",
+        "score": 0.9688901105596059
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring water and prepare for long walks to see all other attractions nearby",
+        "answer": "water",
+        "score": 0.9195137063823466
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "didnt even know who rodin was except for the the thinker  however  there is so so so much more of his works that had my husband  i speechlessthe gardens werent much as far as flowers go but the sculptures and bronzed ones were quite magnificentpleasantly pleased with the cafe  that can only be accessed with your museum pass  unfortunately  food and drink selectionsenjoyed a bowl of a legume soup and a glass of proseccoperfect break in the day",
+        "answer": "flowers",
+        "score": 0.824860851171124
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "was cloudy with showers but still worth the visit",
+        "answer": "showers",
+        "score": 0.9419630912439132
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch the shoes you wear  thoughnot all the paths are paved and consequently  if its a bit wet outside  you can easily mess up some nice shoes",
+        "answer": "shoes",
+        "score": 0.8415556561157445
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "pre booked the tickets on line the day before and caught the bus",
+        "answer": "tickets",
+        "score": 0.8879817910690377
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "eat a sicilian pizza at ignacios in dumbo10 stars",
+        "answer": "pizza",
+        "score": 0.8455132850616423
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you remove your slippers at the shop nearest to the entrance of the dargah and dont pay more than 100150 bucks for the material purchased",
+        "answer": "slippers",
+        "score": 0.8465847115111025
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your own lunch and something to sit on because you can find a nice place on the grass or under a tree and have a picnic for lunch",
+        "answer": "lunch",
+        "score": 0.8893405197977131
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "watch your step as there are quite many wise guys there that will try to take your money",
+        "answer": "money",
+        "score": 0.8666342630778665
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear shoes with thick soles",
+        "answer": "shoes",
+        "score": 0.8441185827998687
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prebook your tickets",
+        "answer": "tickets",
+        "score": 0.9134565086953863
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "didnt know flip flops were compulsory so had to buy them  actually did need them and extra cost soon forgotten once in the glorious spa ",
+        "answer": "flip flops",
+        "score": 0.9102750285737393
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book your ticket ahead of time",
+        "answer": "book your ticket",
+        "score": 0.8234774693936693
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "forget about bus tours this was engaging and fun",
+        "answer": "bus tours",
+        "score": 0.8948732796679337
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do not miss the small but very beautiful collection of paintings in the main building",
+        "answer": "paintings",
+        "score": 0.8967593582191853
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to get your books stamped",
+        "answer": "books",
+        "score": 0.9654753697961951
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take a look at the magnificent marble staircase  that alone is worth the tripmatch days fill the area with a buzz of excitement and well worth a trip  if you can get a ticket",
+        "answer": "a ticket",
+        "score": 0.8465929727079171
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take a seat and drink in the panorama",
+        "answer": "drink",
+        "score": 0.835531553046124
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "did not know it was a 284 step circular walk to the top when we purchased our tickets",
+        "answer": "tickets",
+        "score": 0.8606317729901392
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to bring your camera",
+        "answer": "camera",
+        "score": 0.8050586860630737
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take aways at the restaurant at the zoo entrance is pricey  but the coffee was good",
+        "answer": "coffee",
+        "score": 0.9235089131615624
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "guided tours at every hour in several languages",
+        "answer": "guided tours",
+        "score": 0.8597364420440776
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "have water bottle in hand and enjoy a serene tour",
+        "answer": "water bottle",
+        "score": 0.881092126392538
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your camera for a great view from the top of the crater  bring your water and be ready for a nice hike  if youre a couch potato youll have a problem walking the nice upgrade to make your way to the top",
+        "answer": "water",
+        "score": 0.8518330547319124
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your luggage if you cant check in and take a nap on the lovely grass  or on cement wall  take a stroll or just enjoy watching all the passer bys go bye",
+        "answer": "luggage",
+        "score": 0.9401351415671719
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "enjoy wandering the cobbled narrow laneways  while eating ice cream after a day at the beach on a warm day",
+        "answer": "ice cream",
+        "score": 0.9460809394889615
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to bring water and keep any dogs on a lead as there are some steep drops aroundits tough if youre not super duper fit  but climbing arthurs seat is really a right of passage to edinburgh newcomers and locals alike  especially at sunrise",
+        "answer": "water",
+        "score": 0.8854340225643398
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "looking at the harbor and liberty statue are also beautiful",
+        "answer": "liberty statue",
+        "score": 0.9080245121687582
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "shame the cable cars were out of action  bus trip was unreal",
+        "answer": "cable cars",
+        "score": 0.8006402132477888
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "compared to european concert prices the tickets are affordable and you get great value for your money",
+        "answer": "tickets",
+        "score": 0.8636821344920307
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get tickets in advance or use city pass",
+        "answer": "tickets",
+        "score": 0.9270403580750717
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets online before you go",
+        "answer": "tickets",
+        "score": 0.8297625605518881
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "recommend you download the guided tour app before you go and take headphones rather than spend 9 on their device  its exactly the same and they recommend you",
+        "answer": "headphones",
+        "score": 0.988560776488697
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your own lunch or choose from the cool menu they offer at the cafes",
+        "answer": "lunch",
+        "score": 0.9094621288945746
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "beware of the long lines to get the tickets to go inside  and i mean time consumingly long",
+        "answer": "tickets",
+        "score": 0.8392281320371886
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you have sneakers and watch your footing take your time",
+        "answer": "sneakers",
+        "score": 0.9619354057367957
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go leafs",
+        "answer": "go leafs",
+        "score": 0.9219337467991195
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "booked tickets for the morning show way back in october last year so had wonderful seats",
+        "answer": "tickets",
+        "score": 0.9398312699677547
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do carry rain wear in case it pours",
+        "answer": "rain wear",
+        "score": 0.9753957660299193
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to get your tickets for the boat ride to this memorial early  as the are all sold out by lunch time usually",
+        "answer": "tickets",
+        "score": 0.9562317369029643
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arrive early as it doesnt last long and bring your camera",
+        "answer": "camera",
+        "score": 0.9189633272744473
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "recommend you take water and do it early as it gets very hot during the day  gates open at 0600hrs and walk in",
+        "answer": "water",
+        "score": 0.9773264065688778
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring lightbutsturdy footwear with good grip  the path towards the top does get a little rocky  but not too treacherous",
+        "answer": "lightbutsturdy footwear",
+        "score": 0.8115084201097709
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "booked early via viator and got our tickets online",
+        "answer": "tickets",
+        "score": 0.8969001990245573
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "remember to take water as it was very hot",
+        "answer": "water",
+        "score": 0.9490953703847111
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had a tough time trying to get the tickets to the boat though",
+        "answer": "tickets",
+        "score": 0.8276263376700896
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "brings back history books to lifea must see if you are in delhithe audio guide  bought at the ticketing center  was really worth it",
+        "answer": "history books",
+        "score": 0.8029874338643594
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your water for sure as usual in new",
+        "answer": "water",
+        "score": 0.830185003582951
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "trying to get drinks during the interval proved somewhat problematic",
+        "answer": "drinks",
+        "score": 0.9675939092632824
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "note that it gets very very busy  including bicycles trying to get through the crowds",
+        "answer": "bicycles",
+        "score": 0.9913794421888298
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water and enjoy the awesome view as reward",
+        "answer": "water",
+        "score": 0.8947023450736573
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "is it a pain to stand in line for security and then for tickets and then for the elevator",
+        "answer": "tickets",
+        "score": 0.8705775736626897
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "visited on a sunday afternoon very busy  que for security and then once in for a ticket",
+        "answer": "a ticket",
+        "score": 0.8410195537736662
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "live entertainment and later viewed from hotel room  fireworks ",
+        "answer": "live entertainment",
+        "score": 0.9074133206982111
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take a privat tour guide and visit this place and kremlin",
+        "answer": "a privat tour guide",
+        "score": 0.8625681496365978
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "saw around 4 species of fish i never saw in other european aquariums",
+        "answer": "fish",
+        "score": 0.8516160396714483
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "living  breathing history not to be missed",
+        "answer": "living breathing history",
+        "score": 0.9477953256510219
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "go and buy your ticket in advance at home",
+        "answer": "ticket",
+        "score": 0.8878379508381471
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went to visit the zoo  used a ticket machine to get our tickets we were denied entry for not having passports  which we left in our room   we werent offered a refund",
+        "answer": "passports",
+        "score": 0.8758961722211751
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear comfortable shoes and pay the extra 6 euros to walk up the 300 steps to the very top  but dont do it if youre claustrophobic",
+        "answer": "shoes",
+        "score": 0.822759771049256
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "loved the horses",
+        "answer": "horses",
+        "score": 0.8733476478666446
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you are wearing comfy shoes  this place is huge",
+        "answer": "comfy shoes",
+        "score": 0.8028134524383468
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "skating by lake ontario is exhilarating",
+        "answer": "skating",
+        "score": 0.9022228471132152
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water shoes or have sore feet",
+        "answer": "water shoes",
+        "score": 0.9238178210399894
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "seeing the kids coffins was the worst",
+        "answer": "coffins",
+        "score": 0.9172296238802637
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "look for laki   or that s how",
+        "answer": "laki",
+        "score": 0.915754725431345
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take your time and soak in the atmosphere ",
+        "answer": "time",
+        "score": 0.8382501377838025
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "book tickets in advance through statue cruises only  if only to skip the long line through security",
+        "answer": "book tickets",
+        "score": 0.9462442764071817
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went there first week in april 18  prebooked my entrance and printed off the tickets  thus avoiding the large entry queue",
+        "answer": "tickets",
+        "score": 0.9172308412954777
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take your money and go elsewhere",
+        "answer": "money",
+        "score": 0.9017359477683087
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be mindful of the sacrifices given when you are in the harbor",
+        "answer": "sacrifices",
+        "score": 0.9156337316451229
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "spent an hour or more queueing for cable car",
+        "answer": "cable car",
+        "score": 0.9233667463269271
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "loved the jelly fish exhibit especially",
+        "answer": "jelly fish",
+        "score": 0.8052019118108689
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets ahead of time",
+        "answer": "tickets",
+        "score": 0.8052381216610449
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take a tour with headsets and feel as you were actually there with the gladiators",
+        "answer": "headsets",
+        "score": 0.9681240358219974
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "suggest you wear aquatic shoes which you can purchase locally and dont cost all that much",
+        "answer": "aquatic shoes",
+        "score": 0.854188458895635
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets from your hotel concierge",
+        "answer": "tickets",
+        "score": 0.9386313047508814
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your own water as prices at the wall are 100 tourist trap",
+        "answer": "water",
+        "score": 0.8652448081260182
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take the guided tour and prebuy your tickets or youll spend more time in line than in the actual memorial",
+        "answer": "tickets",
+        "score": 0.902005425849886
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont miss it and make sure to bring your camera",
+        "answer": "camera",
+        "score": 0.8970667712871396
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets before you visit to avoid a wait",
+        "answer": "tickets",
+        "score": 0.9820848722447693
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be on time for your tickets  its unlikely you will be able to join a later tour if you are late and miss your ticket time",
+        "answer": "tickets",
+        "score": 0.876502284407735
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you use suntan lotion ",
+        "answer": "suntan lotion",
+        "score": 0.9591484762358675
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "browse around that days market stalls ",
+        "answer": "market stalls",
+        "score": 0.9113012849350142
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be very careful of pick pockets",
+        "answer": "pick pockets",
+        "score": 0.978800193138909
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "have a morning coffee at beaches cafe  a leisurely late lunch on the verandah at barchetta or fish and chips by the beach at sunset",
+        "answer": "fish and chips",
+        "score": 0.8275682181802253
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "went to watch hopman cup on 3rd jan",
+        "answer": "hopman cup",
+        "score": 0.8091658688462644
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "took loads of photos to remember the day by",
+        "answer": "photos",
+        "score": 0.9518253432712527
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "stop off for drinks at the many bars",
+        "answer": "drinks",
+        "score": 0.9309603918758214
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "drinking mates on tour when still the ussr",
+        "answer": "drinking mates",
+        "score": 0.9001409502275237
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "was here for the st johnstone  aberdeen semi finals and apart from saints winning and the food",
+        "answer": "food",
+        "score": 0.8419309229403282
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "paid 300 bucks for last min tickets online and got pretty decent seats",
+        "answer": "tickets",
+        "score": 0.9266364572547943
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring blankets  it was quite cool",
+        "answer": "blankets",
+        "score": 0.9679988605576568
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "looking for bamboo plates  fork and spoonfound it here",
+        "answer": "bamboo plates",
+        "score": 0.8327997224671861
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do take sandwiches if you plan to be there for a long time though",
+        "answer": "sandwiches",
+        "score": 0.9905285061074665
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water and a hat  it can get very hot here even in the winter ",
+        "answer": "water and a hat",
+        "score": 0.81929870974718
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "relaxed and entertained  we made our way out of the building  picked up our shoes  about 50 minutes later  and headed off to the next adventure",
+        "answer": "shoes",
+        "score": 0.8971691154934902
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "made the love of hockey so much better",
+        "answer": "hockey",
+        "score": 0.9288189525352948
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "try and buy your tickets in advance",
+        "answer": "tickets",
+        "score": 0.9729825194796149
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "crowded with people taking pics but its expected",
+        "answer": "pics",
+        "score": 0.9886594593526041
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "took us almost an hour to get our food",
+        "answer": "food",
+        "score": 0.8776297173133827
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "takes about 30 minutes by the time you keep stopping to take photographs",
+        "answer": "photographs",
+        "score": 0.9605504491494443
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your sunscreen  you can only stay in the shade so often",
+        "answer": "sunscreen",
+        "score": 0.9637212829410657
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take the time to get a coffee and just sit in the park or take a break from sightseeing and just sit on the bench to take in the daily life of living in paris",
+        "answer": "coffee",
+        "score": 0.819329941755214
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "please take audio guide for your convenient",
+        "answer": "audio guide",
+        "score": 0.9691935313412259
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "guided tours are available if you prefer",
+        "answer": "guided tours",
+        "score": 0.9663567852386201
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "climbing the steps from the foot hill will take you to sacre coeur   one of the most visited iconic cathedral in paris   walking from mouling rougue there are souvenir shops lined up along the sides of the alley  as you walk up the hill   be care full with pick pockets and negroes and bulgarian ad romanian idiotic women and illegal immigrants   junkies and hippes are around this place smoking weeds  who swarm you to grab money from you in the name of donations dont ever reply them just move on   they tried to grab my purse and my currencies   worst people   so stay always careful   and the negros will be there haggling around to tie a band on ur wrist voluntarily and grab money from you and force you to pay money for the band   if they find u as a tourist thats all they swarm you to dig out money from you ",
+        "answer": "souvenir shops",
+        "score": 0.9062254492177146
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "queued for an hour but so worth i spent hours inside  definitely get the audio guide  you can pay for it inside or else download for free on your phone",
+        "answer": "audio guide",
+        "score": 0.8080214813346913
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "beware of the people trying to sell you souvenirs outside  they are very",
+        "answer": "souvenirs",
+        "score": 0.9637095180862332
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont bring your phone  camera  there is a list of things that you will have to leave outside before entering",
+        "answer": "phone camera",
+        "score": 0.9116454846858986
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "having a guide helps a lot as",
+        "answer": "a guide",
+        "score": 0.8066526231507609
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you take water and enjoy the scenery as you climb",
+        "answer": "water",
+        "score": 0.9431659252300477
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to bring water",
+        "answer": "water",
+        "score": 0.8889204728630489
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be prepared  the queue to return towels is a long one and dont forget flip flops  you are forced to buy if you dont have them ",
+        "answer": "towels",
+        "score": 0.9144228510498422
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "took towels from our hotel in an appropriate sized bag  remember to take one with you   think cost was around 20euros eachbaths and pools were busy  its was a lovely warm day in the city so not sure if this helped or not",
+        "answer": "towels",
+        "score": 0.9865914209697735
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you have tickets",
+        "answer": "tickets",
+        "score": 0.9652735996833961
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure to bring water in the summer months and set yourself for a great stair workout with some awesome views",
+        "answer": "water",
+        "score": 0.9352976207526424
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "reserved our tickets for the guided grand tour online and simply picked up from the group desk",
+        "answer": "tickets",
+        "score": 0.9702111765985038
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to take your camera with you  entring   including the lift ride is 800 euro ",
+        "answer": "camera",
+        "score": 0.9593431916275819
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "have to have the gum ice cream",
+        "answer": "gum ice cream",
+        "score": 0.8846555898703059
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "finished off our walk with drinks  food at the time out cafe",
+        "answer": "drinks food",
+        "score": 0.89571365888348
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be aware that you will be walking the entire time and backpacks are not allowed in order to prevent looting",
+        "answer": "backpacks",
+        "score": 0.9918537483640755
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "impressed with the merchandise in the shops",
+        "answer": "merchandise",
+        "score": 0.8916865983240427
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "buy your tickets online",
+        "answer": "tickets",
+        "score": 0.8857396785130902
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring hat and lotion",
+        "answer": "hat and lotion",
+        "score": 0.8321548457525978
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring your wallet",
+        "answer": "wallet",
+        "score": 0.8611501787051807
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take the train  very reasonable priceto lantau island you have to change trains  half way  but is not an effort as most of the other passengers are doing it too at lantau island take the cable car  wonderful experience",
+        "answer": "cable car",
+        "score": 0.8342690725850588
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring tissues and take your time in this amazing memorial",
+        "answer": "tissues",
+        "score": 0.9103696934309085
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "sitting at the top having coffee overlooking the chain bridge and the river was awesome and the cafe staff in the cafe overlooking the river were very helpful",
+        "answer": "coffee",
+        "score": 0.9833091432454921
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do take insect repellent as i was eaten alive",
+        "answer": "insect repellent",
+        "score": 0.9738070609112093
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "arrive early to avoid long queues  and dont take a bag as otherwise youll be queuing for longer",
+        "answer": "a bag",
+        "score": 0.8938698814639068
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring a box of tissues",
+        "answer": "tissues",
+        "score": 0.8382937223202802
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "do not bring any snacks as",
+        "answer": "snacks",
+        "score": 0.9310612127245044
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "prebook your tickets and get there early",
+        "answer": "tickets",
+        "score": 0.9793989477739728
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take water as you will be sweating when you reach the topwhat an absolutely impressive site ",
+        "answer": "water",
+        "score": 0.9498625805285599
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "be sure to buy your tickets ahead of time or go with a tour group to avoid long lines",
+        "answer": "tickets",
+        "score": 0.8320216138730316
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "carry water",
+        "answer": "water",
+        "score": 0.9833661909818936
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "bring comfortable shoes  or",
+        "answer": "shoes",
+        "score": 0.9463742692358608
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "wear comfortable shoes and walk from the castle to the hideous new parliament building take in the glimpses of old edinburgh  lots of small free museums with knowledgeable volunteers to answer your questions",
+        "answer": "shoes",
+        "score": 0.8595386486018839
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "take care of bicycles running on the bridge they have dedicated lanes",
+        "answer": "bicycles",
+        "score": 0.967792156620682
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "got all our tickets and headed to the chairlift for our ride to the top",
+        "answer": "tickets",
+        "score": 0.9746530837780405
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "get your tickets early as this is a popular attraction of one of the worlds great opera houses",
+        "answer": "tickets",
+        "score": 0.9843591579494984
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "have been before years ago but this time far more exhibits to see including some costumes the guided tour was excellent and learnt a lot about austrian history",
+        "answer": "costumes",
+        "score": 0.8149206473171162
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "dont forget to get your purchase stamped",
+        "answer": "purchase",
+        "score": 0.8438204066237631
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "had prebooked tickets to go up to the crown viewing platform  really glad we did as the view was worth it",
+        "answer": "tickets",
+        "score": 0.967778203123256
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "make sure you buy your tickets online",
+        "answer": "tickets",
+        "score": 0.9257810141354028
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "suggest you purchase your tickets in advance on line",
+        "answer": "tickets",
+        "score": 0.9686364126972933
+    },
+    {
+        "question": "what should we carry alongside ourselves, while going on a trip",
+        "context": "remember your sunglasses for the flight deck",
+        "answer": "sunglasses",
+        "score": 0.9884362764853094
+    }
+]
