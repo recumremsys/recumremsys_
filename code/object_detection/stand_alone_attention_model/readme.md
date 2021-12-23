@@ -5,7 +5,7 @@ This is divided into parts as:-
 **config** containg the arguments we will pass in the command line           
 **main** containg the execution of all the functions      
 **model** containg the architecture of the model         
-**preprocess** containg the arguments that will preprocess the images
+**preprocess** containg the arguments that will preprocess the image
 
 **REFERENCES: -**       
 [ResNet](https://github.com/suvoooo/Learn-TensorFlow/blob/master/resnet/Implement_Resnet_TensorFlow.ipynb)          
